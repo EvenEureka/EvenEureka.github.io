@@ -24,6 +24,7 @@ Spatial-Temporal Contrastive Diffusion Model(STCDM) for Check-in Sequence Genera
 
 
 A Mid-match Tennis Winner Predictor , Competition Project
+======
 * This project is based on the Jeff dataset, and its goal is to predict the winner of the tennis match point by point and mining momentum changes. The project is implemented by using the Transformer model, and the final accuracy rate is as high as 94%.
 
 
