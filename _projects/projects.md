@@ -1,4 +1,8 @@
-{% include base_path %}
+---
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
 
 Reappearance of classic papers on Group Evolution Game Theory
 ======
