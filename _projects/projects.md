@@ -1,9 +1,3 @@
----
-title: "Projects"
-collection: projects
-permalink: /_projects/project
----
-
 {% include base_path %}
 
 Reappearance of classic papers on Group Evolution Game Theory
