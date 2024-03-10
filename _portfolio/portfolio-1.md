@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Hybrid Transformer Architecture for Medical Image Segmentation, Course Project"
+excerpt: "Integrated attention into neural networks for enhanced medical image segmentation.<br/><img src='/images/heart.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Integrated attention into neural networks for heart imaging segmentation. By applying self-attention modules in both the encoder and decoder, the model captures remote dependencies of different scales, enabling a more nuanced understanding of spatial relationships within cardiac images.
+
+[Code]()
