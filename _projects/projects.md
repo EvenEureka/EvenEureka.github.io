@@ -23,7 +23,7 @@ Spatial-Temporal Contrastive Diffusion Model(STCDM) for Check-in Sequence Genera
 * This project is based on the KITTI dataset and the competition private dataset, and the goal is to detect the 3D objects in the point cloud. The project is implemented by using the TED model. We apply sparse convolutional backbones to extract multi-channel transformed equivariant voxel features and the final result is evaluated by the mAP metric.
 
 
-A Mid-match Tennis Winner Predictor , Competition Project
+A Mid-match Tennis Winner Predictor, Competition Project
 ======
 * This project is based on the Jeff dataset, and its goal is to predict the winner of the tennis match point by point and mining momentum changes. The project is implemented by using the Transformer model, and the final accuracy rate is as high as 94%.
 
