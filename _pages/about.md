@@ -14,5 +14,5 @@ I was also advised by [Prof LI Aming](https://www.ai.pku.edu.cn/info/1313/1695.h
 
 You can find my CV here: [LU Yiwen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:21211160@bjtu.edu.cn, yLu579584@gmail.com) / [Github](https://github.com/EvenEureka) / [Wechat](../images/wechat.jpg)
+[Email](mailto:21211160@bjtu.edu.cn, yLu579584@gmail.com) / [Github](https://github.com/EvenEureka) / [Wechat](../images/Wechat.jpg)
             
