@@ -30,8 +30,10 @@ A Mid-match Tennis Winner Predictor, Competition Project
 
 A Hybrid Transformer Architecture for Medical Image Segmentation, Course Project
 ======
-* Integrated attention into neural networks for heart imaging segmentation. By applying self-attention modules in both the encoder and decoder, the model captures remote dependencies of different scales, enabling a more nuanced understanding of spatial relationships within cardiac images. 
-  
+* This is a reproduction of the paper: UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation. Integrated attention into neural networks for heart imaging segmentation. By applying self-attention modules in both the encoder and decoder, the model captures remote dependencies of different scales, enabling a more nuanced understanding of spatial relationships within cardiac images. 
 
   
+Small C Experimental Language Compiler, Course Project
+======
+* This is a small C compiler coded in Python. Including lexical analysis, syntax analysis, semantic analysis, intermediate code generation, and target assembly code generation.
 
