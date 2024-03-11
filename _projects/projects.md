@@ -7,6 +7,7 @@ author_profile: true
 Reproduction of classic papers on Group Evolution Game Theory
 ======
 * This project is a reproduction of the classic paper "Scale-Free Networks Provide a Unifying Framework for the Emergence of Cooperation" and "Social diversity promotes the emergence of cooperation in public goods games" by F. C. Santos. We reproduce the results of the paper and also explore the influence of different parameters on the model and the impact of different initial conditions on the final results.
+* The [Code](https://github.com/EvenEureka/Reproduction-on-group-evolution-game-theory) is updating...
 
 Check-in GLM, Research Project
 ======
@@ -21,6 +22,7 @@ Spatial-Temporal Contrastive Diffusion Model(STCDM) for Check-in Sequence Genera
 3D Object Detection based on Point Cloud, Competition Project
 ======
 * This project is based on the KITTI dataset and the competition private dataset, and the goal is to detect the 3D objects in the point cloud. The project is implemented by using the TED model. We apply sparse convolutional backbones to extract multi-channel transformed equivariant voxel features and the final result is evaluated by the mAP metric.
+* [Code](https://github.com/EvenEureka/3D-Object-Detection-based-on-Point-Cloud)
 
 
 A Mid-match Tennis Winner Predictor, Competition Project
@@ -30,10 +32,12 @@ A Mid-match Tennis Winner Predictor, Competition Project
 
 A Hybrid Transformer Architecture for Medical Image Segmentation, Course Project
 ======
-* This is a reproduction of the paper: UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation. Integrated attention into neural networks for heart imaging segmentation. By applying self-attention modules in both the encoder and decoder, the model captures remote dependencies of different scales, enabling a more nuanced understanding of spatial relationships within cardiac images. 
+* This is a reproduction of the paper: UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation. Integrated attention into neural networks for heart imaging segmentation. By applying self-attention modules in both the encoder and decoder, the model captures remote dependencies of different scales, enabling a more nuanced understanding of spatial relationships within cardiac images.
+* [Code](https://github.com/EvenEureka/A-Hybrid-Transformer-Architecture-for-Medical-Image-Segmentation)
 
   
 Small C Experimental Language Compiler, Course Project
 ======
 * This is a small C compiler coded in Python. Including lexical analysis, syntax analysis, semantic analysis, intermediate code generation, and target assembly code generation.
+* [Code](https://github.com/EvenEureka/Small-C-Experimental-Language-Compiler)
 
