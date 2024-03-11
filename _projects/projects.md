@@ -4,9 +4,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-Reappearance of classic papers on Group Evolution Game Theory
+Reproduction of classic papers on Group Evolution Game Theory
 ======
-* This project is based on the classic paper "Scale-Free Networks Provide a Unifying Framework for the Emergence of Cooperation" and "Social diversity promotes the emergence of cooperation in public goods games" by F. C. Santos. We reproduce the results of the paper and extend the model to a more general case. We also explore the influence of different parameters on the model and the impact of different initial conditions on the final results.
+* This project is a reproduction of the classic paper "Scale-Free Networks Provide a Unifying Framework for the Emergence of Cooperation" and "Social diversity promotes the emergence of cooperation in public goods games" by F. C. Santos. We reproduce the results of the paper and also explore the influence of different parameters on the model and the impact of different initial conditions on the final results.
 
 Check-in GLM, Research Project
 ======
