@@ -12,7 +12,7 @@ I'm a third year undergraduate student in Computer Science from [School of Compu
 I am very fortunate to be advised by [Prof WAN Huaiyu](http://faculty.bjtu.edu.cn/8793/) of Institute of Network Science and Intelligent Systems, Beijing Jiaotong University.
 I was also advised by [Prof LI Aming](https://www.ai.pku.edu.cn/info/1313/1695.htm) of Institute for Artificial Intelligence, Peking University.
 
-You can find my CV here: [LU Yiwen's Curriculum Vitae](../assets/Yiwen Lu CV 2410.pdf).
+You can find my CV here: [LU Yiwen's Curriculum Vitae](../assets/cv.pdf).
 
 [Email](mailto:21211160@bjtu.edu.cn, yLu579584@gmail.com) / [Github](https://github.com/EvenEureka) / [Wechat](../images/Wechat.jpg)
             
