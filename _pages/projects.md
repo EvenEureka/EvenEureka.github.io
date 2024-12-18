@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+
 Forum Database Using Spring Boot and Vue
 ======
 * Frontend: The Vue framework dynamically renders and updates HTML pages, ensuring responsive and interactive user interfaces. Its component-based development approach makes the code modular, maintainable, and improves development efficiency and readability.
