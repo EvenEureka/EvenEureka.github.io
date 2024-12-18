@@ -3,16 +3,24 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+Forum Database Using Spring Boot and Vue
+======
+* Frontend: The Vue framework dynamically renders and updates HTML pages, ensuring responsive and interactive user interfaces. Its component-based development approach makes the code modular, maintainable, and improves development efficiency and readability.
 
+* Backend: Spring Boot is used to develop controllers, services, and data access layers for business logic and database operations. Its simple configuration and robust ecosystem streamline application development. RESTful APIs enable seamless real-time communication between the frontend and backend.
+
+* Database: MySQL 8.0.27 is employed as the relational database, offering stable and high-performance data storage. Using Spring Data JPA, database operations are simplified, making CRUD operations intuitive and efficient. MySQL's advanced features, such as transaction management, index optimization, and stored procedures, further enhance system performance and data consistency.
 Reproduction of classic papers on Group Evolution Game Theory
+
+* [Code](https://github.com/EvenEureka/Forum-Database)
 ======
 * This project is a reproduction of the classic paper "Scale-Free Networks Provide a Unifying Framework for the Emergence of Cooperation" and "Social diversity promotes the emergence of cooperation in public goods games" by F. C. Santos. We reproduce the results of the paper and also explore the influence of different parameters on the model and the impact of different initial conditions on the final results.
 * The [Code](https://github.com/EvenEureka/Reproduction-on-group-evolution-game-theory) is updating...
 
-Check-in GLM, Research Project
+Mobility-LLM, Research Project
 ======
 * Customized Spatial-Temporal data (Check-in Sequence) for LLMs enables these models to generate predictions or insights based on patterns and trends identified in the sequence of check-ins. By feeding LLMs with such data, it becomes possible to model complex human mobility and activity patterns over time and space, allowing for enhanced applications in areas such as targeted advertising, event prediction, and personalized recommendation systems. 
-
+* [Code](https://anonymous.4open.science/r/Mobility-LLM)
 
 Spatial-Temporal Contrastive Diffusion Model(STCDM) for Check-in Sequence Generation, Research Project
 ======
