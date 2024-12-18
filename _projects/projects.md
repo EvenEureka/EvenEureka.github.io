@@ -13,6 +13,8 @@ Forum Database Using Spring Boot and Vue
 Reproduction of classic papers on Group Evolution Game Theory
 
 * [Code](https://github.com/EvenEureka/Forum-Database)
+
+Reproduction of classic papers on Group Evolution Game Theory
 ======
 * This project is a reproduction of the classic paper "Scale-Free Networks Provide a Unifying Framework for the Emergence of Cooperation" and "Social diversity promotes the emergence of cooperation in public goods games" by F. C. Santos. We reproduce the results of the paper and also explore the influence of different parameters on the model and the impact of different initial conditions on the final results.
 * The [Code](https://github.com/EvenEureka/Reproduction-on-group-evolution-game-theory) is updating...
